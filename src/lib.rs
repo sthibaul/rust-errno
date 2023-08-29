@@ -1,3 +1,5 @@
+#![allow(elided_lifetimes_in_paths)]
+#![allow(unexpected_cfgs)]
 //! Cross-platform interface to the `errno` variable.
 //!
 //! # Examples
